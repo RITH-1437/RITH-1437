@@ -96,7 +96,7 @@ Task management application with authentication and CRUD functionality.
 
 📍 Phnom Penh, Cambodia
 
-📧 [neyrithneyrith@gmail.com](mailto:neyrithneyrith@gmail.com)
+📧 [nairithrin143@gmail.com](mailto:neyrithneyrith@gmail.com)
 
 💼 Open to Internship & Collaboration Opportunities
 
