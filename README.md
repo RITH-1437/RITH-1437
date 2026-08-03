@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 Full Stack Developer | 🎓 ITC Student
+### 💻 Software Developer | 🎓 ITC Student
 
 Building modern web applications with clean architecture, scalable backends, and responsive user experiences.
 
