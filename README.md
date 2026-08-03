@@ -15,6 +15,7 @@ Building modern web applications with clean architecture, scalable backends, and
 ## 🚀 About Me
 
 * 🎓 Studying Information Technology at **ITC**
+* 💻 Working as Software Developer at CTX-98 CO., Ltd
 * 💻 Passionate about Full Stack Development
 * 🌱 Currently learning advanced Spring Boot architecture and cloud deployment
 * 🔥 Interested in Backend Engineering, Web Applications, and System Design
