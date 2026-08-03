@@ -2,144 +2,586 @@
 
 <div align="center">
 
-### 💻 Software Developer | 🎓 ITC Student
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Software+Developer;Backend+Engineer;Building+Real-World+Applications;Always+Learning+Something+New" />
 
-I love solving real-world problems with technology, building useful products, and learning through every challenge.
+### 💻 Software Developer @ CTX-98 Co., Ltd | 🎓 ITC Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+Engineer+in+Progress;Full+Stack+Problem+Solver;Always+Learning+New+Things" />
+> *"I don't just learn technology—I use it to solve real-world problems."*
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 Studying Information Technology at **Institute of Technology of Cambodia (ITC)**
-* 💼 Working as a **Software Developer at CTX-98 Co., Ltd**
-* 🔧 Passionate about building real-world web applications
-* 🌱 Currently learning **Spring Boot** and improving backend architecture
-* ⚡ Enjoy turning ideas into practical software
-* 🧠 Love learning, solving problems, and improving through code
+```text
+Name        : Rin Nairith
+Location    : Phnom Penh, Cambodia 🇰🇭
+Education   : Institute of Technology of Cambodia (ITC)
+Current Job : Software Developer @ CTX-98 Co., Ltd
+Portfolio   : https://rin-nairith.vercel.app
+```
 
----
+I'm passionate about transforming ideas into reliable software.
 
-## 🛠️ Tech Stack
+Rather than learning technologies just to know them, I enjoy using them to solve problems, build scalable systems, improve workflows, and create meaningful products that people actually use.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+Currently, I'm working on modern full-stack web applications, RAG systems, and backend architecture while continuously improving my software engineering skills.
 
 ---
 
-## 🌟 Featured Projects
+# 💡 What Drives Me
 
-### 🚀 PromptHub
-AI sharing platform where users can publish, explore, and copy prompts easily without extra steps.
+> **"People learn technology to use it. I use technology to solve problems, innovate, and create something valuable."**
 
-### ☕ Coffee Aroma
-A full-stack web application for managing a coffee business with speed and care.
+✔ Problem Solver
 
-### 🛠️ ZeroPing Framework
-An open-source framework inspired by Laravel style, designed to help developers build with more structure and features.
+✔ Fast Learner
 
-### 🤖 DevScore AI
-AI-powered GitHub portfolio analyzer built to evaluate projects and developer profiles.
+✔ Competitive
 
-### ✅ Todo App
-Task management app with authentication, CRUD features, and a clean user experience.
-
-### ♟️ Chess With AI
-Interactive chess game with drag-and-drop gameplay and an AI opponent.
+✔ Love Real-world Challenges
 
 ---
 
-## 📚 Current Focus
+# 🛠 Tech Stack
 
-* Mastering **Spring Boot**
-* Improving **backend engineering**
-* Building **real-world full stack applications**
-* Learning how to lead and contribute to larger team projects
-* Growing into a more experienced software developer
+## Frontend
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap" />
+</p>
 
-## 🎯 Career Goal
+## Backend
 
-I want to become a professional software developer with stronger experience, contribute to real-world projects, and eventually lead a team that builds reliable software that works well for users.
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,dotnet" />
+</p>
 
----
+## Database
 
-## 🏆 My Favorite Repositories
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mssql" />
+</p>
 
-**Most Proud:** [ZeroPing](https://github.com/RITH-1437/ZeroPing)  
-**Favorite:** [Coffee Aroma](https://github.com/RITH-1437/coffee_aroma_spring)  
-**Most Challenging:** [ZeroPing](https://github.com/RITH-1437/ZeroPing)
+## DevOps & Cloud
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RITH-1437&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RITH-1437&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RITH-1437&theme=tokyonight)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,supabase,vercel,jenkins" />
+</p>
 
 ---
 
-## 🌱 GitHub Activity
+# 💼 Experience
 
-![GitHub Snake](https://github.com/RITH-1437/RITH-1437/blob/output/github-contribution-grid-snake.svg)
+## 💻 Software Developer
 
----
+**CTX-98 Co., Ltd**
 
-## 🎓 Fun Facts
-
-* Favorite language: **Spring Boot**
-* Favorite framework: **ZeroPing Framework**
-* Favorite editor: **JetBrains IDE**
-* Coffee or Tea: **Coffee**
-* Theme: **Light**
-* Coding mood: **No horror story — just code**
+- Building enterprise-level web applications
+- Developing AI-powered RAG systems
+- Designing scalable backend architecture
+- Building modern full-stack applications
 
 ---
 
-## 🌍 Connect With Me
+# 🌟 Featured Projects
 
-[GitHub](https://github.com/RITH-1437/)  
-[LinkedIn](https://www.linkedin.com/in/nairith-rin-4889933b3)  
-[TikTok](https://www.tiktok.com/@nairith.rin)  
-[Facebook](https://www.facebook.com/share/1H2s7f54iw/)  
-[Portfolio](https://rin-nairith.vercel.app)  
-[Live Project](https://zero-ping.duckdns.org)  
-[Email](mailto:nairithrin143@gmail.com)
+## 🚀 PromptHub
+
+AI prompt-sharing platform where users can publish, discover, organize, and copy prompts effortlessly.
+
+🔗 Repository
+
+https://github.com/RITH-1437/prompthub
+
+🌐 Live Demo
+
+https://prompthub-free.duckdns.org
 
 ---
+
+## 🛠 ZeroPing Framework
+
+An open-source PHP framework inspired by Laravel that provides modern architecture, routing, middleware, authentication, migrations, and developer-friendly tooling.
+
+⭐ **Most Proud Project**
+
+🔗
+
+https://github.com/RITH-1437/ZeroPing
+
+🌐
+
+https://zero-ping.duckdns.org
+
+---
+
+## 🤖 DevScore AI
+
+AI-powered GitHub portfolio analyzer that evaluates repositories, developer profiles, and coding activity.
+
+🔗
+
+https://github.com/RITH-1437/devscore-ai
+
+---
+
+## ☕
+
+Coffee Aroma
+
+A full-stack coffee management system built with Spring Boot that helps businesses manage products, orders, and operations efficiently.
+
+🔗
+
+https://github.com/RITH-1437/coffee_aroma_spring
+
+---
+
+## ✅ Notes App
+
+Secure full-stack notes application built using ASP.NET.
+
+🔗
+
+https://github.com/RITH-1437/notes-app
+
+---
+
+## ♟ Chess With AI
+
+Interactive chess game featuring drag-and-drop gameplay with an AI opponent.
+
+🔗
+
+https://github.com/RITH-1437/chess-with-ai
+
+---
+
+# 📚 Current Focus
+
+- 🌱 Spring Boot Architecture
+- 🏗 Backend Engineering
+- ☁ Cloud Deployment
+- 🤖 AI & RAG Systems
+- ⚡ High-performance APIs
+- 🧩 System Design
+
+---
+
+# 🎯 Career Goal
+
+My goal is to become a professional software engineer who builds reliable software, leads engineering teams, and contributes to impactful real-world products.
+
+I believe software should solve problems—not create them.
+
+---
+
+# 🏆 Highlights
+
+🏅 Most Proud Project
+
+**ZeroPing Framework**
+
+❤️ Favorite Project
+
+**Coffee Aroma**
+
+🔥 Most Challenging Project
+
+**ZeroPing Framework**
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RITH-1437&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITH-1437&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=RITH-1437&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/RITH-1437/RITH-1437/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🎓 Fun Facts
+
+☕
+
+Coffee fuels my ideas.
+
+🖥
+
+Favorite IDE
+
+JetBrains
+
+🌞
+
+Light mode all day.
+
+🎵
+
+I enjoy listening to horror stories while coding.
+
+🚀
+
+Favorite Framework
+
+**ZeroPing**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://rin-nairith.vercel.app">
+Portfolio
+</a>
+
+•
+
+<a href="https://github.com/RITH-1437">
+GitHub
+</a>
+
+•
+
+<a href="https://www.linkedin.com/in/nairith-rin-4889933b3">
+LinkedIn
+</a>
+
+•
+
+<a href="https://www.tiktok.com/@nairith.rin">
+TikTok
+</a>
+
+•
+
+<a href="https://www.facebook.com/share/1H2s7f54iw/">
+Facebook
+</a>
+
+</p>
+
+<div align="center">
+
+📧 **nairithrin143@gmail.com**
+
+---
+
+### ⭐ *"Code. Learn. Build. Repeat."*
+
+<img src="https://komarev.com/ghpvc/?username=RITH-1437&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div># 👋 Hi, I'm Nairith
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=850&lines=Software+Developer;Backend+Engineer;Building+Real-World+Applications;Always+Learning+Something+New" />
+
+### 💻 Software Developer @ CTX-98 Co., Ltd | 🎓 ITC Student
+
+> *"I don't just learn technology—I use it to solve real-world problems."*
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```text
+Name        : Rin Nairith
+Location    : Phnom Penh, Cambodia 🇰🇭
+Education   : Institute of Technology of Cambodia (ITC)
+Current Job : Software Developer @ CTX-98 Co., Ltd
+Portfolio   : https://rin-nairith.vercel.app
+```
+
+I'm passionate about transforming ideas into reliable software.
+
+Rather than learning technologies just to know them, I enjoy using them to solve problems, build scalable systems, improve workflows, and create meaningful products that people actually use.
+
+Currently, I'm working on modern full-stack web applications, RAG systems, and backend architecture while continuously improving my software engineering skills.
+
+---
+
+# 💡 What Drives Me
+
+> **"People learn technology to use it. I use technology to solve problems, innovate, and create something valuable."**
+
+✔ Problem Solver
+
+✔ Fast Learner
+
+✔ Competitive
+
+✔ Love Real-world Challenges
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,vue,tailwind,bootstrap" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,java,spring,dotnet" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=mssql" />
+</p>
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,firebase,supabase,vercel,jenkins" />
+</p>
+
+---
+
+# 💼 Experience
+
+## 💻 Software Developer
+
+**CTX-98 Co., Ltd**
+
+- Building enterprise-level web applications
+- Developing AI-powered RAG systems
+- Designing scalable backend architecture
+- Building modern full-stack applications
+
+---
+
+# 🌟 Featured Projects
+
+## 🚀 PromptHub
+
+AI prompt-sharing platform where users can publish, discover, organize, and copy prompts effortlessly.
+
+🔗 Repository
+
+https://github.com/RITH-1437/prompthub
+
+🌐 Live Demo
+
+https://prompthub-free.duckdns.org
+
+---
+
+## 🛠 ZeroPing Framework
+
+An open-source PHP framework inspired by Laravel that provides modern architecture, routing, middleware, authentication, migrations, and developer-friendly tooling.
+
+⭐ **Most Proud Project**
+
+🔗
+
+https://github.com/RITH-1437/ZeroPing
+
+🌐
+
+https://zero-ping.duckdns.org
+
+---
+
+## 🤖 DevScore AI
+
+AI-powered GitHub portfolio analyzer that evaluates repositories, developer profiles, and coding activity.
+
+🔗
+
+https://github.com/RITH-1437/devscore-ai
+
+---
+
+## ☕
+
+Coffee Aroma
+
+A full-stack coffee management system built with Spring Boot that helps businesses manage products, orders, and operations efficiently.
+
+🔗
+
+https://github.com/RITH-1437/coffee_aroma_spring
+
+---
+
+## ✅ Notes App
+
+Secure full-stack notes application built using ASP.NET.
+
+🔗
+
+https://github.com/RITH-1437/notes-app
+
+---
+
+## ♟ Chess With AI
+
+Interactive chess game featuring drag-and-drop gameplay with an AI opponent.
+
+🔗
+
+https://github.com/RITH-1437/chess-with-ai
+
+---
+
+# 📚 Current Focus
+
+- 🌱 Spring Boot Architecture
+- 🏗 Backend Engineering
+- ☁ Cloud Deployment
+- 🤖 AI & RAG Systems
+- ⚡ High-performance APIs
+- 🧩 System Design
+
+---
+
+# 🎯 Career Goal
+
+My goal is to become a professional software engineer who builds reliable software, leads engineering teams, and contributes to impactful real-world products.
+
+I believe software should solve problems—not create them.
+
+---
+
+# 🏆 Highlights
+
+🏅 Most Proud Project
+
+**ZeroPing Framework**
+
+❤️ Favorite Project
+
+**Coffee Aroma**
+
+🔥 Most Challenging Project
+
+**ZeroPing Framework**
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RITH-1437&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITH-1437&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=RITH-1437&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/RITH-1437/RITH-1437/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# 🎓 Fun Facts
+
+☕
+
+Coffee fuels my ideas.
+
+🖥
+
+Favorite IDE
+
+JetBrains
+
+🌞
+
+Light mode all day.
+
+🎵
+
+I enjoy listening to horror stories while coding.
+
+🚀
+
+Favorite Framework
+
+**ZeroPing**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://rin-nairith.vercel.app">
+Portfolio
+</a>
+
+•
+
+<a href="https://github.com/RITH-1437">
+GitHub
+</a>
+
+•
+
+<a href="https://www.linkedin.com/in/nairith-rin-4889933b3">
+LinkedIn
+</a>
+
+•
+
+<a href="https://www.tiktok.com/@nairith.rin">
+TikTok
+</a>
+
+•
+
+<a href="https://www.facebook.com/share/1H2s7f54iw/">
+Facebook
+</a>
+
+</p>
+
+<div align="center">
+
+📧 **nairithrin143@gmail.com**
+
+---
+
+### ⭐ *"Code. Learn. Build. Repeat."*
+
+<img src="https://komarev.com/ghpvc/?username=RITH-1437&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
