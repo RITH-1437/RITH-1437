@@ -198,13 +198,13 @@ I believe software should solve problems—not create them.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RITH-1437&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RITH-1437&show_icons=true&theme=github_dark&hide_border=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITH-1437&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITH-1437&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RITH-1437&theme=github-dark-blue&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=RITH-1437&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
