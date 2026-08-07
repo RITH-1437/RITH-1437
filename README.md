@@ -50,71 +50,41 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-```yaml
-# ── WHO I AM ──────────────────────────────
-  name     : Nairith Rin
-  role     : Software Developer
-  company  : CTX-98 Co., Ltd
-  school   : Institute of Technology of Cambodia
-  location : Phnom Penh, Cambodia 🇰🇭
-  status   : Open to interesting problems ✅
-```
+**Software Developer at CTX-98 Co., Ltd**
 
-</td>
-<td width="50%" valign="top">
+<sub>Backend-first engineer building enterprise web applications, AI + RAG systems, and practical developer tools.</sub>
 
-```yaml
-# ── WHAT I'M BUILDING ─────────────────────
-  now:
-    → Enterprise Web Applications
-    → AI + RAG Systems @ CTX-98
-    → ZeroPing Framework v2
+</div>
 
-  next:
-    → Microservices Architecture
-    → Cloud-native Deployments
-    → Distributed Systems
-```
+> **Profile**
+>
+> - **Name:** Nairith Rin
+> - **Education:** Institute of Technology of Cambodia
+> - **Location:** Phnom Penh, Cambodia
+> - **Focus:** Backend systems, full-stack products, AI workflows, and clean architecture
 
-</td>
-</tr>
-<tr>
-<td valign="top">
+> **Currently Building**
+>
+> - Enterprise web applications at CTX-98
+> - AI-assisted RAG systems
+> - ZeroPing Framework v2
+> - Production-ready full-stack projects
 
-```yaml
-# ── HOW I WORK ────────────────────────────
-  ide      : JetBrains  ❤️
-  theme    : Light Mode  🌞   # yes, really
-  fuel     : Coffee  ☕        # non-negotiable
-  focus    : Backend-first, then everything else
-  vibe     : Horror stories while coding  🎧
-  strength : Turning complex problems into
-             clean, maintainable solutions
-```
+> **Engineering Style**
+>
+> - Backend-first architecture with clear boundaries
+> - Simple systems that stay maintainable as they grow
+> - Code organized for the engineer who reads it next
+> - Practical learning through shipped projects
 
-</td>
-<td valign="top">
-
-```yaml
-# ── WHAT I BELIEVE ────────────────────────
-  [1] Software should solve problems,
-      not create new ones.
-
-  [2] Build for the engineer who reads
-      this code six months from now.
-
-  [3] Simplicity scales. Complexity decays.
-
-  [4] Code. Learn. Build. Repeat.  ∞
-```
-
-</td>
-</tr>
-</table>
+> **Next Up**
+>
+> - Microservices architecture
+> - Cloud-native deployments
+> - Distributed systems
+> - Kubernetes and AWS
 
 <br/>
 
@@ -193,7 +163,7 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
 
 </div>
 
@@ -476,34 +446,33 @@ Technology evolves. I stay curious, stay sharp, and adapt — always building so
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RITH-1437&theme=github_dark&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-<br/><br/>
-
-<table>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RITH-1437&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RITH-1437&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<br/>
-<img width="80%" src="https://streak-stats.demolab.com?user=RITH-1437&theme=github-dark-blue&hide_border=true" />
-</td>
-</tr>
-</table>
+<sub>Live profile signals, contribution history, language mix, and activity trends.</sub>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RITH-1437&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="100%" />
+<img src="https://trophy.benkou.dev/?username=RITH-1437&theme=github_dark&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="GitHub Trophy" />
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/RITH-1437/RITH-1437/output/github-contribution-grid-snake.svg" />
+<img src="https://github-stats-extended.vercel.app/api?username=RITH-1437&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=21600" width="420" alt="RITH-1437 GitHub Stats" />
+&nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RITH-1437&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=420&cache_seconds=21600" width="420" alt="RITH-1437 Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=RITH-1437&theme=github-dark-blue&hide_border=true" width="520" alt="RITH-1437 GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RITH-1437&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&custom_title=Contribution%20Graph" width="100%" alt="RITH-1437 Contribution Activity Graph" />
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RITH-1437/RITH-1437/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RITH-1437/RITH-1437/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/RITH-1437/RITH-1437/output/github-contribution-grid-snake.svg" width="100%" alt="RITH-1437 Contribution Snake Animation" />
+</picture>
 
 </div>
 
