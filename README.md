@@ -153,9 +153,13 @@
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="48" alt="MySQL" />
 &nbsp;
-<img src="https://go-skill-icons.vercel.app/api/icons?i=mssql" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" />
+&nbsp;
+<img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="48" alt="PostgreSQL" />
+
+<sub>MySQL · PostgreSQL · SQL Server</sub>
 
 **Cloud & DevOps**
 
