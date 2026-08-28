@@ -384,7 +384,7 @@ Most developers use frameworks without understanding what happens under the hood
 - [ ] Full documentation site
 
 [![View on GitHub](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RITH-1437/ZeroPing)
-[![Live Docs](https://img.shields.io/badge/Live%20Demo-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://zero-ping.duckdns.org)
+
 
 </td>
 </tr>
