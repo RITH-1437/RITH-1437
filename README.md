@@ -255,7 +255,6 @@ Built full-stack web applications, released the ZeroPing open-source PHP framewo
 </p>
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RITH-1437/ZeroPing)
-[![Demo](https://img.shields.io/badge/Live%20Demo-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://zero-ping.duckdns.org)
 
 </td>
 <td width="50%" valign="top">
@@ -273,7 +272,7 @@ Built full-stack web applications, released the ZeroPing open-source PHP framewo
 </p>
 
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RITH-1437/prompthub)
-[![Demo](https://img.shields.io/badge/Live%20Demo-238636?style=for-the-badge&logo=vercel&logoColor=white)](https://prompthub-free.duckdns.org)
+
 
 </td>
 </tr>
