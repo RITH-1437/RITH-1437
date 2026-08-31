@@ -116,7 +116,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="38" alt="MySQL"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL"/>
 </p>
-<sub>MySQL · PostgreSQL · Database Design · ORM</sub>
 
 **Cloud & DevOps**
 
