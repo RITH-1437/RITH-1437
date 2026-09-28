@@ -378,6 +378,18 @@ Technology evolves. I stay curious, stay sharp, and adapt — always building so
   <img src="https://raw.githubusercontent.com/RITH-1437/RITH-1437/output/github-contribution-grid-snake.svg" width="100%" alt="RITH-1437 Contribution Snake Animation" />
 </picture>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RITH-1437/RITH-1437/output-pacman/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RITH-1437/RITH-1437/output-pacman/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/RITH-1437/RITH-1437/output-pacman/pacman-contribution-graph.svg" width="100%" alt="RITH-1437 Pac-Man Contribution Animation" />
+</picture>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/RITH-1437/RITH-1437/output-3d-contrib/profile-green-animate.svg" width="100%" alt="RITH-1437 3D Contribution Graph" />
+
 </div>
 
 <br/>
